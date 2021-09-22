@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @BoleeMan
-- 👀 I’m interested in VB6 programming as well as Javascript, Processing and VBNet and CSharp coding.
-- 🌱 I’m currently learning Graphics skills and Mathematics related work.
-- 💞️ I’m looking to collaborate on Graphics Programs
-- 📫 How to reach me ...Not Yet as still setting up.
+RGB Colour Explorer is a simple VB6 program to get a Hex colour and an RGB colour from a simple palette.
 
-<!---
-BoleeMan/BoleeMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![image](https://user-images.githubusercontent.com/91184178/134313055-ccd509dd-61e1-4abc-9d27-1f0573ea3d1e.png)
+
 --->
