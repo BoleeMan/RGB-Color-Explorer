@@ -1,1 +1,2 @@
-*.frm linguist-detectable=true
+$ cat .gitattributes
+*.frm linguist-language=VB6
