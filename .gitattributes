@@ -1,2 +1,3 @@
 $ cat .gitattributes
 *.frm linguist-language=VB6
+*.frm linguist-detectable=true
